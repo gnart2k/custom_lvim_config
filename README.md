@@ -1,1 +1,1 @@
-# custom_lvim_config
+# custom_lvim_config for lunar vim
